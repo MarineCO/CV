@@ -42,7 +42,7 @@ a {
 
 .header h1 {
 	flex-grow: 10;
-	margin-top: 30%;
+	/*margin-top: 30%;*/
 	color: black;
 	font-size: 40px;
 	text-decoration: underline;
